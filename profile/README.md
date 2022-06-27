@@ -12,6 +12,6 @@
 **https://reactjs.org/docs/getting-started.html**
 **https://flask.palletsprojects.com/en/2.1.x/**
 **https://docs.soliditylang.org/en/v0.8.15/**
-🍿 Fun facts - what does your team love? We love coffee :coffee:
+🍿 Fun facts - what does your team love? We love to have coffee :coffee:
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
