@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
+## Hi there 👋 we are the Team Creedorians
 
 🙋‍♀️ A short introduction - We are the Team Creedorians
 🌈 Contribution guidelines - Anyone interested can contribute to SL License. You are welcomed!
@@ -14,4 +10,4 @@
 **https://docs.soliditylang.org/en/v0.8.15/**
 🍿 Fun facts - what does your team love? We love to have coffee :coffee:
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
